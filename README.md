@@ -1,0 +1,2 @@
+# RETOS_MINTIC
+Retos de la UPB - MINTIC 2022
